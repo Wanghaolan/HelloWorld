@@ -1,0 +1,89 @@
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\Termie.AboutBox.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.csproj.GenerateResource.Cache
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Form1.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Properties.Resources.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\bin\Debug\sf.exe
+F:\cantool\c#编写串口通讯代码 多线程实现\bin\Debug\sf.pdb
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.exe
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.pdb
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.Form2.resources
+F:\cantool\c#编写串口通讯代码 多线程实现\obj\Debug\sf.csprojResolveAssemblyReference.cache
+F:\Cantool\com\obj\Debug\sf.exe
+F:\Cantool\com\obj\Debug\sf.pdb
+F:\Cantool\com\bin\Debug\sf.exe
+F:\Cantool\com\bin\Debug\sf.pdb
+F:\Cantool\com\obj\Debug\sf.csprojResolveAssemblyReference.cache
+F:\Cantool\com\obj\Debug\Termie.AboutBox.resources
+F:\Cantool\com\obj\Debug\sf.Form1.resources
+F:\Cantool\com\obj\Debug\sf.Form2.resources
+F:\Cantool\com\obj\Debug\sf.Properties.Resources.resources
+F:\Cantool\com\obj\Debug\sf.csproj.GenerateResource.Cache
+F:\Cantool\com\obj\Debug\sf.Form3.resources
+L:\com\obj\Debug\sf.exe
+L:\com\obj\Debug\sf.pdb
+F:\Cantool\com\bin\Debug\Nobi.StatusChart.dll
+F:\Cantool\com\bin\Debug\Nobi.StatusChart.pdb
+F:\Cantool\com\bin\Debug\ZGraph.dll
+F:\Cantool\com\bin\Debug\ZGraph.xml
+F:\Cantool\com\obj\Debug\sf.Form4.resources
+F:\Cantool\com\bin\Debug\Interop.iPlotLibrary.dll
+F:\Cantool\com\bin\Debug\Interop.iProfessionalLibrary.dll
+F:\Cantool\com\bin\Debug\AxInterop.iPlotLibrary.dll
+F:\Cantool\com\bin\Debug\AxInterop.iProfessionalLibrary.dll
+F:\Cantool\com\obj\Debug\Interop.iPlotLibrary.dll
+F:\Cantool\com\obj\Debug\Interop.iProfessionalLibrary.dll
+F:\Cantool\com\obj\Debug\AxInterop.iPlotLibrary.dll
+F:\Cantool\com\obj\Debug\AxInterop.iProfessionalLibrary.dll
+F:\Cantool\com\obj\Debug\sf.csproj.ResolveComReference.cache
+F:\Cantool\com\bin\Debug\sf.exe.config
+E:\Program\Git\Cantool\Cantool\com\bin\Debug\sf.exe.config
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.csproj.ResolveComReference.cache
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.exe
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.pdb
+E:\Program\Git\Cantool\Cantool\com\bin\Debug\sf.exe
+E:\Program\Git\Cantool\Cantool\com\bin\Debug\sf.pdb
+E:\Program\Git\Cantool\Cantool\com\bin\Debug\Nobi.StatusChart.pdb
+E:\Program\Git\Cantool\Cantool\com\bin\Debug\ZGraph.xml
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.csprojResolveAssemblyReference.cache
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\Termie.AboutBox.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Form1.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Form2.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Form3.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Form4.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Properties.Resources.resources
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.csproj.GenerateResource.Cache
+E:\Program\Git\Cantool\Cantool\com\obj\Debug\sf.Form5.resources
+D:\com\bin\Debug\sf.exe.config
+D:\com\obj\Debug\sf.csproj.ResolveComReference.cache
+D:\com\obj\Debug\sf.exe
+D:\com\obj\Debug\sf.pdb
+D:\com\obj\Debug\sf.csprojResolveAssemblyReference.cache
+D:\com\obj\Debug\Termie.AboutBox.resources
+D:\com\obj\Debug\sf.Form1.resources
+D:\com\obj\Debug\sf.Form2.resources
+D:\com\obj\Debug\sf.Form3.resources
+D:\com\obj\Debug\sf.Form4.resources
+D:\com\obj\Debug\sf.Form5.resources
+D:\com\obj\Debug\sf.Properties.Resources.resources
+D:\com\obj\Debug\sf.csproj.GenerateResource.Cache
+D:\com\bin\Debug\sf.exe
+D:\com\bin\Debug\sf.pdb
+D:\com\bin\Debug\Nobi.StatusChart.pdb
+D:\com\bin\Debug\ZGraph.xml
+E:\com\bin\Debug\sf.exe.config
+E:\com\obj\Debug\sf.csproj.ResolveComReference.cache
+E:\com\obj\Debug\sf.exe
+E:\com\obj\Debug\sf.pdb
+E:\com\bin\Debug\sf.exe
+E:\com\bin\Debug\sf.pdb
+E:\com\bin\Debug\Nobi.StatusChart.pdb
+E:\com\bin\Debug\ZGraph.xml
+E:\com\obj\Debug\sf.csprojResolveAssemblyReference.cache
+E:\com\obj\Debug\Termie.AboutBox.resources
+E:\com\obj\Debug\sf.Form1.resources
+E:\com\obj\Debug\sf.Form2.resources
+E:\com\obj\Debug\sf.Form3.resources
+E:\com\obj\Debug\sf.Form4.resources
+E:\com\obj\Debug\sf.Form5.resources
+E:\com\obj\Debug\sf.Properties.Resources.resources
+E:\com\obj\Debug\sf.csproj.GenerateResource.Cache
